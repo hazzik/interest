@@ -1,4 +1,4 @@
-﻿namespace TemplateProject.Tests;
+﻿namespace Interest.Tests;
 
 [TestFixture]
 public class GreetingsTest

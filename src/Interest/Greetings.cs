@@ -1,4 +1,4 @@
-﻿namespace TemplateProject;
+﻿namespace Interest;
 
 public static class Greetings
 {
